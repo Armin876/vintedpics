@@ -1,0 +1,9 @@
+{
+  "name": "VintedPics",
+  "description": "An all-in-one AI creative studio featuring Vinted background replacement, Veo video generation, Live API voice chat, and advanced Gemini reasoning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
